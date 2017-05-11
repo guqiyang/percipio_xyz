@@ -1,0 +1,73 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=Percipio Camport SDK
+
+[WINDOWS]
+main="Percipio Camport SDK","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+percipio__camport_8h_source.html
+percipio__camport_8h.html
+namespacepercipio.html
+structpercipio_1_1CamGainCtrlParam.html
+structpercipio_1_1CamGainCtrlParam-members.html
+structpercipio_1_1CamIntristic.html
+structpercipio_1_1CamIntristic-members.html
+structpercipio_1_1CmosCtrlParam.html
+structpercipio_1_1CmosCtrlParam-members.html
+classpercipio_1_1DepthCameraDevice.html
+classpercipio_1_1DepthCameraDevice-members.html
+structpercipio_1_1DeviceInfo.html
+structpercipio_1_1DeviceInfo-members.html
+structpercipio_1_1DeviceProperty.html
+structpercipio_1_1DeviceProperty-members.html
+classpercipio_1_1ICameraVideoSource.html
+classpercipio_1_1ICameraVideoSource-members.html
+classpercipio_1_1ICoordinateMapper.html
+classpercipio_1_1ICoordinateMapper-members.html
+structpercipio_1_1ImageBuffer.html
+structpercipio_1_1ImageBuffer-members.html
+structpercipio_1_1SpeckleFilterParam.html
+structpercipio_1_1SpeckleFilterParam-members.html
+structpercipio_1_1Vect3f.html
+structpercipio_1_1Vect3f-members.html
+dir_13e138d54eb8818da29c3992edef070a.html
+index.html
+namespaces.html
+namespacemembers.html
+namespacemembers_func.html
+namespacemembers_type.html
+namespacemembers_enum.html
+namespacemembers_eval.html
+annotated.html
+classes.html
+functions.html
+functions_func.html
+functions_vars.html
+functions_enum.html
+files.html
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
+nav_h.png
+nav_f.png
+bc_s.png
+doxygen.png
+closed.png
+open.png
+bdwn.png
+sync_on.png
+sync_off.png
+doc.png
+folderopen.png
+folderclosed.png
+arrowdown.png
+arrowright.png
+splitbar.png

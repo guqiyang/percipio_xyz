@@ -1,0 +1,8 @@
+prefix=/home/blue/work/percipio_xyz/camport_ros/devel
+
+Name: depthimage_to_laserscan
+Description: Description of depthimage_to_laserscan
+Version: 1.0.7
+Cflags: -I/home/blue/work/percipio_xyz/camport_ros/devel/include -I/home/blue/work/percipio_xyz/camport_ros/src/depthimage_to_laserscan/include
+Libs: -L/home/blue/work/percipio_xyz/camport_ros/devel/lib -lDepthImageToLaserScan -lDepthImageToLaserScanROS -lDepthImageToLaserScanNodelet
+Requires: dynamic_reconfigure image_geometry image_transport nodelet roscpp sensor_msgs
